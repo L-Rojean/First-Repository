@@ -4,6 +4,7 @@ h1{
 }
 
 p{
+    size: 18px;
     text-align: center;
     color: black;
     text-emphasis: emphasis;
